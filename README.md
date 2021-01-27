@@ -5,3 +5,4 @@
  - feature-C
  - feature-D
  - git rebase
+ - feature-E
